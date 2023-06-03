@@ -29,6 +29,7 @@ banner = '''
 	 \____//_/|_/____/  /_____/\____/ /_/
                       Wp Scanner
   \u001b[32mDEVELOPED BY TEAM BADS and CRACKED BY SICARIO! ᕦ(ò_óˇ)ᕤ\033[0m
+  
 '''
 
 def animated(text):
